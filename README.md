@@ -1,7 +1,6 @@
 ### Olá 👋
 
 Meu nome é Carolina
-- Sou estudante do ensino médio
 - TENTANDO aprender programação
 - Dê uma conferida nessas minhas tentativas!
 
